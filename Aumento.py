@@ -1,4 +1,7 @@
 salario: float
+novo: float
+aumento: float
+
 
 salario = float(input("Digite o salario da pessoa: "))
 
@@ -32,4 +35,4 @@ else:
 
     print(f"Novo salario: R${novo:.2f}")
     print(f"Aumento = R${aumento:.2f}")
-    print(f"Porcentagem 20 %")
+    print(f"Porcentagem 5 %")
