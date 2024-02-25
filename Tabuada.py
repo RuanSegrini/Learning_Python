@@ -1,4 +1,5 @@
 n: int
+tabuada: int
 
 n = int(input("Deseja a tabuada de qual valor? "))
 
