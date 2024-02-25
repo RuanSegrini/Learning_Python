@@ -13,5 +13,6 @@ while x != 0:
     else:
         soma = x + (x + 2) + (x + 4) + (x + 6) + (x + 8)
         print(f"SOMA = {soma}")
+        
     x = int(input("Digite um numero inteiro: "))
     resto = x % 2
